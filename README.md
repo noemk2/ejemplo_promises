@@ -1,10 +1,10 @@
-Hola mundo en near con AssemblyScript
+Single cross-contract en near con AssemblyScript
 ==================
 
-Introducción a holamundo en near (assemblyScript)
+Introducción a Single cross-contract  en near (assemblyScript)
 ==================
 
- un holamundo en near protocol, este contrato te perminte:
+ un Single cross-contract en near protocol, este contrato te perminte:
  
  1. print "Hello world" 
  2. print "Hello " + $USER
